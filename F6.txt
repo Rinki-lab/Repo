@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This si sixth file
+
+This is new file
+>>>>>>> 466a506ab8adc7afacaff7f6e58276b65814fe82
